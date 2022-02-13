@@ -3,19 +3,19 @@
 .top-banner-1 {
   box-sizing: border-box;
   background-color: #2c9ab7;
-  padding: 100px 400px 0px 275px;
+  padding: 100px 0px 0px 275px;
   margin: 0rem;}
 
 .top-banner-2 {
   box-sizing: border-box;
   background-color: #2c9ab7;
-  padding: 20px 1050px 100px 275px;
+  padding: 20px 0px 100px 275px;
   margin: 0rem;}
 
 .sub-banner {
   box-sizing: border-box;
   background-color: #ebebeb;
-  padding: 25px 400px 25px 275px;
+  padding: 25px 0px 25px 275px;
   margin: 0rem;
   font-size: 24px;
   font-weight: bold;
