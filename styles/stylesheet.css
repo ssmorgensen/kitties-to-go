@@ -2,8 +2,7 @@
 
 h1 {
   font-size: 80px;
-  color: #ffffff;
-}
+  color: #ffffff;}
 
 h2 {
   font-size: 44px;
@@ -42,8 +41,8 @@ a {
 
 img {
   display: block;
-  margin-left: 0rem;
-  width: 100%;
+  width: auto;
+  margin-left: auto;
   margin-right: auto;}
 
 li a {
@@ -97,3 +96,9 @@ li a {
   font-weight: bold;
   padding: 5% 0% 5% 0%;
   margin: 0rem;}
+
+.column-2-image {
+  display: block;
+  margin-left: 0rem;
+  margin-right: auto;
+  width: 100%;}
