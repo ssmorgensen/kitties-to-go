@@ -54,7 +54,6 @@ li a {
   box-sizing: border-box;
   background-color: #2c9ab7;
   padding: 3% 52.5% 1.5% 15%;
-  border: 0px solid inherit;
   margin: 0rem;}
 
 .menu-bar {
@@ -107,7 +106,6 @@ li a {
   box-sizing: border-box;
   background-color: #2c9ab7;
   padding: 0% 10% 1.5% 10%;
-  border: 0px solid inherit;
   margin: 0rem;
   text-align: center;}
 
@@ -122,5 +120,4 @@ li a {
   box-sizing: border-box;
   float: right;
   padding: 3% 5% 1.5% 5%;
-  border: 0px solid inherit;
   width: 35%;}
